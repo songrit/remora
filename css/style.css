@@ -2,3 +2,5 @@
 @import url("all/sausage.css");
 
 @import url("print/base.css") print;
+
+.right {text-align: right;}
