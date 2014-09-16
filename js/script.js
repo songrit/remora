@@ -27,9 +27,9 @@ var l10n = {
 };
 
 var scripts = [
-    "/js/jquery.min.js",
-    "/js/jquery-ui.min.js",
-    "/js/jquery.sausage.js"
+    "js/jquery.min.js",
+    "js/jquery-ui.min.js",
+    "js/jquery.sausage.js"
 ];
 
 for(i = 0; i < scripts.length; i++) {
